@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Feel Good Inc.",
+  "base_artist": "Gorillaz",
+  "createdAt": "2026-02-09T13:30:45.608213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel Good Inc",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/01_Feel_Good_Inc_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Thia Megia",
+      "has_synced": false,
+      "path": "select/02_Feel_Good_Inc._Scott_Bradlee's_Postmodern_Jukebox_feat._Thia_Megia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/03_Feel_Good_Inc._Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/04_Feel_Good_Inc._Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/05_Feel_Good_Inc._Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Feel Good Inc. (Stanton Warriors remix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/06_Feel_Good_Inc._(Stanton_Warriors_remix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz feat. De La Soul",
+      "has_synced": true,
+      "path": "select/07_Feel_Good_Inc._Gorillaz_feat._De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Feel Good Inc. (feat. De La Soul)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/08_Feel_Good_Inc._(feat._De_La_Soul)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Feel Good Inc (Stanton Warriors Remix)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/09_Feel_Good_Inc_(Stanton_Warriors_Remix)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Feel Good Inc. (Metal Cover)",
+      "artist": "Leo",
+      "has_synced": false,
+      "path": "select/10_Feel_Good_Inc._(Metal_Cover)_Leo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Feel Good Inc",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/11_Feel_Good_Inc_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz, De La Soul",
+      "has_synced": true,
+      "path": "select/12_Feel_Good_Inc._Gorillaz,_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/13_Feel_Good_Inc._Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/14_Feel_Good_Inc._Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/15_Feel_Good_Inc._Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Feel Good Inc (iTunes Session)",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/16_Feel_Good_Inc_(iTunes_Session)_Gorillaz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "has_synced": false,
+      "path": "select/pl_01_Feel_Good_Inc._Gorillaz.txt"
+    }
+  ]
+}
